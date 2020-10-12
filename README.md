@@ -1,8 +1,8 @@
-# README.md (what is thedreamersclub?)
+# what is thedreamersclub?
 
-`README to find out more!`
+<!-- `README to find out more!` -->
 
-> TLDR: thedreamersclub is an endeavour to foster creative persons to realise their projects whilst recognising their rights over their works, and to found an enterprise based on this endeavour that operates democratically, ethically, social responsibly and based on open source principles.
+> TLDR: thedreamersclub takes creativity to heart; its founders want it to be a vehicle to realise their creative vision. We aim to develop and encourage a culture that supports creative pursuits. As John Fowles said, "All good science is art. And all good art is science."
 
 __Under Construction__: This document is currently under construction. Many of its details are not set in stone and were provided purely for informative purposes. Please `watch` this repository if you would like to be notified of updates!
 
